@@ -169,7 +169,7 @@ function basicCalculator(number1, number2, operation){
 console.log('Exercise 9 Result:', basicCalculator(10, 5, "subtract"));
 
 
-
+g
 
 
 
